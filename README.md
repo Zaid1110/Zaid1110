@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/zaidaftab"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:zaidaftab11@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Open%20to-UK%20Relocation%20(YMV)-blue?style=flat" />
+   />
 </p>
 
 ---
