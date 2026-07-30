@@ -5,7 +5,7 @@
 <p>
   <a href="https://linkedin.com/in/zaidaftab"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:zaidaftab11@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/UK%20Relocation-YMV%20Ready-2F81F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UK%20Relocation-2F81F7?style=for-the-badge" />
 </p>
 
 </div>
