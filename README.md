@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+AWS+%C2%B7+Kubernetes+%C2%B7+Terraform;Building+production+CI%2FCD+pipelines;Open+to+UK+Relocation+(Youth+Mobility+Visa)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+AWS+%C2%B7+Kubernetes+%C2%B7+Terraform;Building+production+CI%2FCD+pipelines;Open+to+UK+Relocation" alt="Typing SVG" />
 
 <p>
   <a href="https://linkedin.com/in/zaidaftab"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:zaidaftab11@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/UK%20Relocation-YMV%20Ready-2F81F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UK%20Relocation-2F81F7?style=for-the-badge" />
 </p>
 
 </div>
@@ -27,8 +27,11 @@ Currently based in India, relocating to the UK on a Youth Mobility Visa — open
 </p>
 
 **Cloud & Infra:** AWS (EC2, EKS, IAM, VPC, S3) · Terraform · Ansible
+
 **CI/CD & GitOps:** Jenkins · GitHub Actions · ArgoCD
+
 **Security & Quality:** Trivy · SonarQube
+
 **Monitoring:** Prometheus · Grafana
 
 ---
