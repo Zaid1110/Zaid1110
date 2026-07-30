@@ -16,7 +16,7 @@
 
 DevOps Engineer with ~2 years building and operating production cloud infrastructure on AWS/EKS. I design end-to-end CI/CD pipelines, automate infrastructure with Terraform, and integrate security scanning (SonarQube, Trivy) directly into delivery workflows. Background in enterprise network engineering (Cisco/FortiGate, 300+ endpoint environment) before moving into cloud-native infrastructure — systems-level depth most application-first DevOps engineers don't have.
 
-Currently based in India, relocating to the UK on a Youth Mobility Visa — open to DevOps / Platform / SRE roles, including sponsorship-track positions.
+Currently based in India — open to DevOps / Platform / SRE roles, including sponsorship-track positions.
 
 ---
 
