@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+AWS+%C2%B7+Kubernetes+%C2%B7+Terraform;Building+production+CI%2FCD+pipelines;Open+to+UK+Relocation+(Youth+Mobility+Visa)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+AWS+%C2%B7+Kubernetes+%C2%B7+Terraform;Building+production+CI%2FCD+pipelines;Open+to+UK+Relocation" alt="Typing SVG" />
 
 <p>
   <a href="https://linkedin.com/in/zaidaftab"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
