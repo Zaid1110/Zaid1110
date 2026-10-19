@@ -58,6 +58,8 @@ Full-stack skill-verification platform (Spring Boot + React 19) with a complete 
 
 **⚙️ [aws-resource-usage-tracker](https://github.com/Zaid1110/aws-resource-usage-tracker)** — Automated AWS resource usage reporting via AWS CLI + shell scripting for cost visibility. `AWS CLI` `Bash`
 
+**🤖 AI DevOps trio** — [pipeline-sage](https://github.com/Zaid1110/pipeline-sage) · [sentinelops](https://github.com/Zaid1110/sentinelops) · [cost-sage](https://github.com/Zaid1110/cost-sage): AI-powered DevOps tools — CI/CD failure triage bot, K8s anomaly detection with Slack alerts, AWS cost advisor. Each runs end-to-end with one demo script, no API key needed. `Python` `AI` `DevOps`
+
 ---
 
 ### GitHub Metrics
